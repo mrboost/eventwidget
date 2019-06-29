@@ -1,0 +1,52 @@
+{  
+  "eventtrigger1": {
+    "type": "text",
+    "label": "Video 1 Trigger",
+    "value": "Default text"
+  },
+  "eventvideo1": {
+    "type": "video-input",
+    "label": "Goal Video",
+    "value": ""
+  },
+  "eventtrigger2": {
+    "type": "text",
+    "label": "Video 2 Trigger",
+    "value": "Default text"
+  },
+  "eventvideo2": {
+    "type": "video-input",
+    "label": "Goal Video",
+    "value": "Default text"
+  },
+  "eventtrigger3": {
+    "type": "text",
+    "label": "Event 3 Image/Sound Trigger",
+    "value": "Default text"
+  },
+  "eventsound3": {
+    "type": "sound-input",
+    "label": "Goal Sound",
+    "value": "Default text"
+  },
+  "eventimage3": {
+    "type": "image-input",
+    "label": "Goal Image",
+    "value": "Default text"
+  },
+  "eventtrigger4": {
+    "type": "text",
+    "label": "Event 4 Image/Sound Trigger",
+    "value": "Default text"
+  },
+  "eventsound4": {
+    "type": "sound-input",
+    "label": "Goal Sound",
+    "value": "Default text"
+  },
+  "eventimage4": {
+    "type": "image-input",
+    "label": "Goal Image",
+    "value": "Default text"
+  }
+}
