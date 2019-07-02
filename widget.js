@@ -1,4 +1,4 @@
-let globalCooldown = 10; //seconds
+let globalCooldown = 60; //seconds
 let userConfig = [
     {
         emote: "!{{eventtrigger1}}", 
