@@ -1,9 +1,20 @@
-let globalCooldown = 60; //seconds
+let globalCooldown = 15; //seconds
 let userConfig = [
     {
         emote: "!{{eventtrigger1}}", 
         amount: 1,
         videoFile: "{{eventvideo1}}",
+        soundFile: "",
+        imageFile: "",
+        volume: 50,
+        timeout: 10, //seconds for triggering combo (amount occurrences within timeout seconds)
+        cooldown: 1, //seconds
+        caseSensitive: false,
+    },
+  	{
+        emote: "!{{eventtrigger11}}", 
+        amount: 1,
+        videoFile: "{{eventvideo11}}",
         soundFile: "",
         imageFile: "",
         volume: 50,
