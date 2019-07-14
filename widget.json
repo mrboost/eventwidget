@@ -9,6 +9,16 @@
     "label": "Goal Video",
     "value": ""
   },
+  "eventtrigger11": {
+    "type": "text",
+    "label": "Video 11 Trigger",
+    "value": "Default text"
+  },
+  "eventvideo11": {
+    "type": "video-input",
+    "label": "Goal Video",
+    "value": ""
+  },
   "eventtrigger2": {
     "type": "text",
     "label": "Video 2 Trigger",
